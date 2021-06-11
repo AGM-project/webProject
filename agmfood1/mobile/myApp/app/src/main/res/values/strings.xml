@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TixzKitchen</string>
+    <string name="image_chooser">File Chooser</string>
+    <string name="tunggu">Loading...</string>
+</resources>
